@@ -8,4 +8,6 @@ export const ListaCont = styled.div`
   border: 1px;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 24px;
+  row-gap: 18px;
 `
